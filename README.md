@@ -246,15 +246,3 @@ Our Jenkins pipeline includes the following stages:
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 👤 Author
-
-- Your Name
-- Contact: [your-email]
-- GitHub: [your-github-profile]
-
-## 🙏 Acknowledgments
-
-- Spring Boot team for the excellent framework
-- The board gaming community for inspiration
-- All contributors who help improve this project
