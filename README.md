@@ -12,7 +12,7 @@ A modern, full-stack web application for managing and reviewing board games. Bui
   - Rate and review board games
 
 - **User Management**
-  - Role-based access control (User/Manager)
+  - Role-based access control (User/Ma nager)
   - Secure authentication and authorization
   - User profile management
 
